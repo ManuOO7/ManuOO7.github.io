@@ -1,5 +1,6 @@
 body {
     background-image:url("bg.jpg");
+    background-size:auto;
   }
   h3 {
     color: blue;
